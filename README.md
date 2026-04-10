@@ -1,1 +1,1 @@
-# what-ever-project. thsi is my first repo.
+# what-ever-project. this is my first repo.
